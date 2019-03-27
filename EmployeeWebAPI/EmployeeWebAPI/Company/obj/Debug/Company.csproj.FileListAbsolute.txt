@@ -1,0 +1,180 @@
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\ApplicationInsights.config
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\csc.exe
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\vbc.exe
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Company.dll.config
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Company.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Company.pdb
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Antlr3.Runtime.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Newtonsoft.Json.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Helpers.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Http.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Mvc.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Optimization.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Razor.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\WebGrease.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Http.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Helpers.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Mvc.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Optimization.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.Razor.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Antlr3.Runtime.pdb
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\bin\Newtonsoft.Json.xml
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\obj\Debug\Company.dll
+C:\Users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\Company\obj\Debug\Company.pdb
+C:\ManojCompany\EmployeeWebAPI\Company\bin\ApplicationInsights.config
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\csc.exe
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\vbc.exe
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe
+C:\ManojCompany\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Company.dll.config
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Company.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Company.pdb
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Antlr3.Runtime.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Newtonsoft.Json.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Helpers.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Http.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Mvc.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Optimization.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\WebGrease.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Http.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Helpers.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Mvc.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Optimization.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Antlr3.Runtime.pdb
+C:\ManojCompany\EmployeeWebAPI\Company\bin\Newtonsoft.Json.xml
+C:\ManojCompany\EmployeeWebAPI\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\ManojCompany\EmployeeWebAPI\Company\obj\Debug\Company.dll
+C:\ManojCompany\EmployeeWebAPI\Company\obj\Debug\Company.pdb
+C:\ManojCompany\EmployeeWebAPI\Company\bin\log4net.dll
+C:\ManojCompany\EmployeeWebAPI\Company\bin\log4net.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\System.Reflection.Metadata.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\ApplicationInsights.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\csc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\System.Collections.Immutable.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\vbc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\roslyn\VBCSCompiler.exe.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Company.dll.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Company.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Company.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Antlr3.Runtime.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\log4net.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.Web.Infrastructure.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Newtonsoft.Json.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Helpers.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Http.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Mvc.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Optimization.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\WebGrease.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\log4net.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.DependencyCollector.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.Web.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.AI.WindowsServer.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.ApplicationInsights.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Net.Http.Formatting.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Http.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Http.WebHost.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Helpers.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Mvc.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Optimization.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.Deployment.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\System.Web.WebPages.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Antlr3.Runtime.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\bin\Newtonsoft.Json.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\obj\Debug\Company.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\Company\obj\Debug\Company.pdb

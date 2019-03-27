@@ -1,0 +1,273 @@
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\ApplicationInsights.config
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\csc.exe
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\vbc.exe
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Owin.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\WebGrease.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.xml
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojResolveAssemblyReference.cache
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+c:\users\superuser\documents\visual studio 2015\Projects\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\ApplicationInsights.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\WebGrease.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.csprojResolveAssemblyReference.cache
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\log4net.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\bin\log4net.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\ApplicationInsights.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\csc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\vbc.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll.config
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EmployeeWebAPI.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\log4net.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\WebGrease.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\log4net.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.Web.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Newtonsoft.Json.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Net.Http.Formatting.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Helpers.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.WebHost.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Mvc.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Optimization.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Antlr3.Runtime.pdb
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\EntityFramework.SqlServer.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\bin\System.Web.Http.Owin.xml
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.dll
+C:\ManojCompany\EmployeeWebAPI\EmployeeWebAPI\EmployeeWebAPI\obj\Debug\EmployeeWebAPI.pdb
